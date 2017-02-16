@@ -1,15 +1,15 @@
 {
-  "name": "atom-material-syntax",
+  "name": "dot-gov-syntax",
   "theme": "syntax",
-  "version": "1.0.2",
-  "description": "A dark syntax theme for Atom that uses Google's Material Design color palette",
+  "version": "0.0.1",
+  "description": "A dark syntax theme for Atom based on atom-material-syntax, however with a new colour palette",
   "keywords": [
     "syntax",
     "theme",
     "material",
-    "material design"
+    "dot gov"
   ],
-  "repository": "https://github.com/silvestreh/atom-material-syntax",
+  "repository": "https://github.com/adam-cattermole/dot-gov-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
