@@ -1,7 +1,7 @@
 {
   "name": "dot-gov-syntax",
   "theme": "syntax",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A dark syntax theme for Atom using atom-material-syntax, however with a new colour palette",
   "keywords": [
     "syntax",
